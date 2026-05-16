@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Xin chào, mình là [Tên của bạn]
+# 👋 Xin chào, mình là Võ Lê Vương
 
 <!-- Banner hoặc ảnh đại diện -->
 <!-- ![Banner](link-to-banner-image) -->
 
 ### 🎓 Sinh viên ngành Công nghệ Thông tin
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/l3vu0ng)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3-vu0ng)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volevuong2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/võ-lê-vương-146290329)
 
 </div>
 
@@ -20,10 +20,10 @@
 
 > *"Đam mê công nghệ – Không ngừng học hỏi"*
 
-- 🏫 Đang học tại: **[Tên trường Đại học]**
-- 📚 Chuyên ngành: **Công nghệ Thông tin / Khoa học Máy tính**
+- 🏫 Đang học tại: **Ho Chi Minh City University of Technology and Egineering**
+- 📚 Chuyên ngành: **Công nghệ Thông tin**
 - 🌱 Đang tìm hiểu: **Trí Tuệ Nhân Tạo, Machine Learning**
-- 🎯 Mục tiêu: Trở thành một **Software Engineer / AI Engineer** chuyên nghiệp
+- 🎯 Mục tiêu: Trở thành một **AI Engineer** chuyên nghiệp
 - ⚡ Sở thích: Lập trình, đọc sách, chơi game
 
 ---
@@ -55,9 +55,8 @@
 
 | # | Tên dự án | Mô tả | Công nghệ | Link |
 |---|-----------|--------|------------|------|
-| 1 | 🧠 **Trí Tuệ Nhân Tạo** | Triển khai các thuật toán AI: BFS, DFS, Agent Models | Python, Pygame | [Xem tại đây](https://github.com/your-username/TriTueNhanTao) |
-| 2 | 🦽 **Smart Wheelchair** | Ứng dụng điều khiển xe lăn thông minh qua IoT | Flutter, ESP32, MQTT | [Xem tại đây](https://github.com/your-username/SmartWheelchair) |
-| 3 | 🌐 **Portfolio Website** | Website cá nhân giới thiệu bản thân | Next.js, React | [Xem tại đây](https://github.com/your-username/Portfolio) |
+| 1 | 🧠 **Trí Tuệ Nhân Tạo** | Triển khai các thuật toán AI: BFS, DFS, Agent Models | Python, Pygame | [Xem tại đây](https://github.com/l3-vu0ng/TriTueNhanTao) |
+| 2 | 🦽 **Smart Wheelchair** | Ứng dụng điều khiển xe lăn thông minh qua IoT | Flutter, ESP32, MQTT | [Xem tại đây](https://github.com/l3-vu0ng/SmartWheelchair) |
 
 ---
 
@@ -76,24 +75,14 @@
 
 ---
 
-## 📚 Môn học liên quan
-
-| Môn học | Nội dung chính | Trạng thái |
-|---------|---------------|------------|
-| Trí Tuệ Nhân Tạo | BFS, DFS, A*, Agent Models | ✅ Đang học |
-| Cấu trúc dữ liệu & Giải thuật | Stack, Queue, Tree, Graph | ✅ Hoàn thành |
-| Lập trình hướng đối tượng | OOP với Java/C++ | ✅ Hoàn thành |
-| Cơ sở dữ liệu | SQL, NoSQL, ERD | ✅ Hoàn thành |
-
----
-
 ## 🏆 Chứng chỉ & Thành tựu
-
+<!--
 - 📜 [Tên chứng chỉ 1] – *Tổ chức cấp*
 - 📜 [Tên chứng chỉ 2] – *Tổ chức cấp*
-- 🏅 [Giải thưởng / Thành tựu đáng chú ý]
+- 🏅 [Giải thưởng / Thành tựu đáng chú ý] 
 
 ---
+-->
 
 ## 📫 Liên hệ với mình
 
@@ -101,8 +90,8 @@
 
 | Kênh | Thông tin |
 |------|-----------|
-| 📧 Email | [your-email@gmail.com](mailto:your-email@gmail.com) |
-| 📱 Điện thoại | 0xxx-xxx-xxx |
+| 📧 Email | [your-email@gmail.com](mailto:volevuong2006@gmail.com) |
+| 📱 Điện thoại | 84+ 0774551185 |
 | 🌐 Website | [your-website.com](https://your-website.com) |
 | 📍 Địa chỉ | TP. Hồ Chí Minh, Việt Nam |
 
