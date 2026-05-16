@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/l3vu0ng)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3-vu0ng)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volevuong2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/võ-lê-vương-146290329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l3vu0ng)
 
 </div>
 
@@ -64,7 +64,6 @@
 
 <div align="center">
 
-<!-- Thay 'your-username' bằng username GitHub thật của bạn -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3-vu0ng&show_icons=true&theme=tokyonight&hide_border=true&locale=vi)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l3-vu0ng&layout=compact&theme=tokyonight&hide_border=true&locale=vi)
@@ -103,7 +102,7 @@
 
 ### ✨ *"Học, thực hành, và chia sẻ – đó là con đường phát triển!"* ✨
 
-![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=LƯỢT+TRUY+CẬP)
+![Visitors](https://komarev.com/ghpvc/?username=l3-vu0ng&color=blueviolet&style=for-the-badge&label=LƯỢT+TRUY+CẬP)
 
 **⭐ Nếu bạn thấy hữu ích, hãy cho mình một Star nhé!**
 
