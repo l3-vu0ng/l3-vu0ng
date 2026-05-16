@@ -65,11 +65,11 @@
 <div align="center">
 
 <!-- Thay 'your-username' bằng username GitHub thật của bạn -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&locale=vi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3-vu0ng&show_icons=true&theme=tokyonight&hide_border=true&locale=vi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&locale=vi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l3-vu0ng&layout=compact&theme=tokyonight&hide_border=true&locale=vi)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&locale=vi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3-vu0ng&theme=tokyonight&hide_border=true&locale=vi)
 
 </div>
 
@@ -90,9 +90,9 @@
 
 | Kênh | Thông tin |
 |------|-----------|
-| 📧 Email | [your-email@gmail.com](mailto:volevuong2006@gmail.com) |
+| 📧 Email | [volevuong2006@gmail.com](mailto:volevuong2006@gmail.com) |
 | 📱 Điện thoại | 84+ 0774551185 |
-| 🌐 Website | [your-website.com](https://your-website.com) |
+| 🌐 Website | [l3vu0ng.com](https://l3vu0ng.com) |
 | 📍 Địa chỉ | TP. Hồ Chí Minh, Việt Nam |
 
 </div>
