@@ -53,10 +53,10 @@
 
 ## 📂 Dự án nổi bật
 
-| # | Tên dự án | Mô tả | Công nghệ | Link |
-|---|-----------|--------|------------|------|
-| 1 | 🧠 **Trí Tuệ Nhân Tạo** | Triển khai các thuật toán AI: BFS, DFS, Agent Models | Python, Pygame | [Xem tại đây](https://github.com/l3-vu0ng/TriTueNhanTao) |
-| 2 | 🦽 **Smart Wheelchair** | Ứng dụng điều khiển xe lăn thông minh qua IoT | Flutter, ESP32, MQTT | [Xem tại đây](https://github.com/l3-vu0ng/SmartWheelchair) |
+| #   | Tên dự án              | Mô tả                                                | Công nghệ            | Link                                                       |
+| --- | ---------------------- | ---------------------------------------------------- | -------------------- | ---------------------------------------------------------- |
+| 1   | 🧠 **Trí Tuệ Nhân Tạo** | Triển khai các thuật toán AI: BFS, DFS, Agent Models | Python, Pygame       | [Xem tại đây](https://github.com/l3-vu0ng/TriTueNhanTao)   |
+| 2   | 🦽 **Smart Wheelchair** | Ứng dụng điều khiển xe lăn thông minh qua IoT        | Flutter, ESP32, MQTT | [Xem tại đây](https://github.com/l3-vu0ng/SmartWheelchair) |
 
 ---
 
@@ -87,12 +87,12 @@
 
 <div align="center">
 
-| Kênh | Thông tin |
-|------|-----------|
-| 📧 Email | [volevuong2006@gmail.com](mailto:volevuong2006@gmail.com) |
-| 📱 Điện thoại | 84+ 0774551185 |
-| 🌐 Website | [l3vu0ng.com](https://l3vu0ng.com) |
-| 📍 Địa chỉ | TP. Hồ Chí Minh, Việt Nam |
+| Kênh         | Thông tin                                                   |
+| ------------ | ----------------------------------------------------------- |
+| 📧 Email      | [volevuong2006@gmail.com](mailto:volevuong2006@gmail.com)   |
+| 📱 Điện thoại | 84+ 0774551185                                              |
+| 🌐 Website    | [l3-vu0ng.github.io](https://l3-vu0ng.github.io/Portfolio/) |
+| 📍 Địa chỉ    | TP. Hồ Chí Minh, Việt Nam                                   |
 
 </div>
 
